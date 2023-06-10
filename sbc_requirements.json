@@ -1,7 +1,10 @@
 {
     "343492": {
        "formation": "3-1-4-2",
-       "rating": "12",
-       "min_total_chemistry": 25    
+       "rating": "70",
+       "min_total_chemistry": 15,
+       "min_club": 6,
+       "min_league": 3,
+       "min_nationality": 4
     }
 }
